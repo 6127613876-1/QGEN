@@ -1,0 +1,8 @@
+datasets
+en_core_web_sm
+numpy
+sentencepiece
+spacy
+tokenizers
+torch
+transformers
